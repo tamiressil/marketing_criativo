@@ -12,7 +12,7 @@
 
 
   #  Veja a página aqui:
- [Veja-o aqui!]()
+ [Veja-o aqui!](https://marketing-criativo-omega.vercel.app/)
    
 ## Tecnologias Aprendidas:
  - HTML.
